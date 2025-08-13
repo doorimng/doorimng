@@ -1,4 +1,13 @@
-## Hi there 👋
+ ## 🖐️ Hi there
+ - 한양대학교 ERICA 컴퓨터학부 24학번 김예림
+ - 한양대학교 ERICA 알고리즘 학회 0&1
+   - 홍보부장 (2025.03 - )
+   - C언어 기초 스터디 멘토 (2025.04 - 2025.07)
+
+## 🎖️ BOJ
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yerim2298)](https://solved.ac/yerim2298)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=yerim2298&theme=warm)
+<!-- warm / cold / dark -->
 
 <!--
 **doorimng/doorimng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
